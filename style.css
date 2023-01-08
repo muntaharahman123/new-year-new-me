@@ -1,0 +1,184 @@
+/* ------------------------------------------------------------
+               FIRST PART CSS STYLE START
+---------------------------------------------------------------------                */
+.first-section {
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.header {
+    background-image: url(images/banner1.png);
+    height: 740px;
+    width: 900px;
+    padding-left: 20%;
+    padding-top: 5%;
+    text-align: right;
+
+
+}
+
+.container-1 {
+    padding-left: 50%;
+    padding-top: 20%;
+    text-align: right;
+}
+
+.container-heading {
+    font-size: 50px;
+}
+
+.btn-decoration {
+    background-color: orangered;
+
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+
+
+}
+
+.contect-btn {
+    color: aliceblue;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+
+
+
+
+/* ------------------------------------------------------------------------------
+                            SECOND PART START 
+----------------------------------------------------------------------------            */
+.second-section {
+
+    padding-top: 10%;
+    padding-left: 10%;
+    height: 500px;
+    width: 1200px;
+
+}
+
+.container-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.container-2 img {
+    height: 500px;
+    width: 600px;
+}
+
+
+/* -----------------------------------------------------------------------------------------
+                                PLANING SECTION 
+  --------------------------------------------------------------------------------------                               */
+.plan-section {
+    display: flex;
+    justify-content: center;
+}
+
+.plan-info {
+    padding: 5%;
+}
+
+.planing-head {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+
+
+/* ---------------------------------------------------------------------------------------
+                    Calling section 
+ ---------------------------------------------------------------------------                    */
+.calling-section {
+
+    height: 300px;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+
+
+
+.contact-info {
+    background-image: url(images/watch.png);
+    background-repeat: no-repeat;
+
+    height: 600px;
+    width: 90%;
+
+}
+
+.call-btn {
+    background-color: white;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+}
+
+.contact {
+
+
+    background-image: url(images/gradient2.png);
+    background-repeat: no-repeat;
+    height: 600px;
+
+
+
+}
+
+/* ----------------------------------------------------------------------------------
+                             LAST FOOTER PARt
+ -----------------------------------------------------------------------                             */
+.call-head {
+    font-size: 60px;
+    color: aliceblue;
+}
+
+.btn-decor {
+    color: orangered;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.call-info {
+    padding-left: 5%;
+}
+
+.social-account {
+    display: flex;
+    padding-left: 5%;
+
+}
+
+
+.future-info {
+
+    width: 30%;
+    padding-left: 10%;
+}
+
+.footer-part {
+
+    display: flex;
+    background-color: black;
+    color: seashell;
+}
+
+.mail-item {
+    width: 40%;
+    padding-right: 5%;
+    padding-top: 5%;
+}
+
+.social-account-item {
+    padding-left: 3%;
+}
